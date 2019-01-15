@@ -1,0 +1,12 @@
+E:\Code\LearnWords\LearnWords\bin\Debug\LearnWords.exe.config
+E:\Code\LearnWords\LearnWords\bin\Debug\LearnWords.exe
+E:\Code\LearnWords\LearnWords\bin\Debug\LearnWords.pdb
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.csprojAssemblyReference.cache
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.Form1.resources
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.Properties.Resources.resources
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.csproj.GenerateResource.cache
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.csproj.CoreCompileInputs.cache
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.exe
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.pdb
+E:\Code\LearnWords\LearnWords\bin\Debug\System.Data.SQLite.dll
+E:\Code\LearnWords\LearnWords\obj\Debug\LearnWords.csproj.CopyComplete
